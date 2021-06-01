@@ -1,6 +1,6 @@
 {
   "name": "wednesday-dude",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The package helps your dudes to build Wednesday-related projects.",
   "main": "lib/index.js",
   "scripts": {
