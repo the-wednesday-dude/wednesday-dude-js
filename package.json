@@ -1,0 +1,22 @@
+{
+  "name": "wednesday-dude",
+  "version": "1.0.0",
+  "description": "The package helps your dudes to build Wednesday-related projects.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-wednesday-dude/wednesday-dude-js.git"
+  },
+  "author": "A Wednesday Dude",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/the-wednesday-dude/wednesday-dude-js/issues"
+  },
+  "homepage": "https://github.com/the-wednesday-dude/wednesday-dude-js#readme",
+  "devDependencies": {
+    "jest": "^27.0.3"
+  }
+}
